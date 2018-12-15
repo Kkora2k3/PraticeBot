@@ -1,0 +1,9 @@
+name: PraticeBot
+version: 1.0.0
+api: 0.0.1
+main: PraticeBot\Main
+author: PlexOfDevs
+
+commands:
+  npc:
+    description: "PraticeBot is a bot that allows you to pratice pvp with"
