@@ -8,3 +8,6 @@
 * Step 3: Restart your server
 * Step 4: All done!
 ---
+## COMMANDS & PERMISSIONS
+| COMMAND | DESCRIPTION | PERMISSION |
+|---|---|---|
